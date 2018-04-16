@@ -1,0 +1,66 @@
+html {
+    height: 100%;
+    background-image: url("img/coffee.jpg");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+body {
+    margin-top: -20px;
+    height: 100%;
+    width: 100%;
+    background: transparent;
+    position: fixed;
+}
+
+h1, h3, p, h2 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    padding-top: 3%;
+}
+
+/* img {
+    width: 100%;
+    position:fixed;
+    display: block;
+    overflow: hidden;
+    margin-left: 0;
+} */
+
+#buttons {
+    width: 100%;
+    margin-top: 5%;
+}
+
+#lunchlist {
+    width: 100%;
+    height: 60%;
+    margin-top: 5%;
+    background: white;
+    filter: opacity(70%);
+}
+
+button {
+    border: none;
+    background: transparent;
+    width: 19%;
+    height: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: white;
+    font-weight: normal;
+}
+
+button:focus {
+    font-weight: bolder;
+}
+
+img {
+    display: block;
+    height: 50px;
+    margin: auto;
+    padding-top: 3%;
+}
