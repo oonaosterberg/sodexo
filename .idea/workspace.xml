@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/style.css" line="24" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e536355-6c4a-42a3-82ee-ff3f3dd47b4f" name="Default" comment="" />
+    <list default="true" id="7e536355-6c4a-42a3-82ee-ff3f3dd47b4f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -182,12 +184,12 @@
       <workItem from="1523516167766" duration="7527000" />
       <workItem from="1523524382971" duration="3892000" />
       <workItem from="1523613551684" duration="3092000" />
-      <workItem from="1523697501786" duration="8413000" />
+      <workItem from="1523697501786" duration="8546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22924000" />
+    <option name="totallyTimeSpent" value="23057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="23" y="22" width="1437" height="821" extended-state="0" />
