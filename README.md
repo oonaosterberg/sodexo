@@ -1,5 +1,1 @@
-# sodexo
-# lunchlist
-# MESSAGE
-# sodexo-app
-# sodexo-app
+An app that fetches the cafeteria lunch list to be viewed by users. 
